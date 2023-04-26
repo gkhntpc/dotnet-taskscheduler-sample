@@ -1,2 +1,2 @@
 # dotnet-taskscheduler-sample
-Infinite task scheduler sample with quartz in async context. You can manage them from appsettings.json file. 
+Infinite and dynamic task scheduler sample with quartz in async context. You can manage them from appsettings.json file. 
